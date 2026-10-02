@@ -1,6 +1,6 @@
-package com.amdocs.telecom.main;
+package com.amdocs.telecom.dao;
 
-import com.amdocs.telecom.dao.SIMCardDAO;
+// import com.amdocs.telecom.dao.SIMCardDAO;
 import com.amdocs.telecom.dao.impl.SIMCardDAOImpl;
 import com.amdocs.telecom.model.SIMCard;
 

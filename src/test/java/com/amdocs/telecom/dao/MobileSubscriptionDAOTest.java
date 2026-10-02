@@ -1,6 +1,6 @@
-package com.amdocs.telecom.main;
+package com.amdocs.telecom.dao;
 
-import com.amdocs.telecom.dao.MobileSubscriptionDAO;
+// import com.amdocs.telecom.dao.MobileSubscriptionDAO;
 import com.amdocs.telecom.dao.impl.MobileSubscriptionDAOImpl;
 import com.amdocs.telecom.model.MobileSubscription;
 

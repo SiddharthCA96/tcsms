@@ -1,6 +1,6 @@
-package com.amdocs.telecom.main;
+package com.amdocs.telecom.dao;
 
-import com.amdocs.telecom.dao.AdministratorDAO;
+// import com.amdocs.telecom.dao.AdministratorDAO;
 import com.amdocs.telecom.dao.impl.AdministratorDAOImpl;
 import com.amdocs.telecom.model.Administrator;
 

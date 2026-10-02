@@ -1,6 +1,6 @@
-package com.amdocs.telecom.main;
+package com.amdocs.telecom.dao;
 
-import com.amdocs.telecom.dao.SubscriptionHistoryDAO;
+// import com.amdocs.telecom.dao.SubscriptionHistoryDAO;
 import com.amdocs.telecom.dao.impl.SubscriptionHistoryDAOImpl;
 import com.amdocs.telecom.model.SubscriptionHistory;
 import com.amdocs.telecom.util.DBConnection;

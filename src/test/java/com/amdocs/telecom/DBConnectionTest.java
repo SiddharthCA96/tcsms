@@ -1,4 +1,4 @@
-package com.amdocs.telecom.main;
+package com.amdocs.telecom;
 
 import com.amdocs.telecom.util.DBConnection;
 

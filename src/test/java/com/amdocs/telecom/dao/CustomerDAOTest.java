@@ -1,6 +1,6 @@
-package com.amdocs.telecom.main;
+package com.amdocs.telecom.dao;
 
-import com.amdocs.telecom.dao.CustomerDAO;
+// import com.amdocs.telecom.dao.CustomerDAO;
 import com.amdocs.telecom.dao.impl.CustomerDAOImpl;
 import com.amdocs.telecom.model.Customer;
 

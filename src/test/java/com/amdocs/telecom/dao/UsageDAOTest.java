@@ -1,6 +1,6 @@
-package com.amdocs.telecom.main;
+package com.amdocs.telecom.dao;
 
-import com.amdocs.telecom.dao.UsageDAO;
+// import com.amdocs.telecom.dao.UsageDAO;
 import com.amdocs.telecom.dao.impl.UsageDAOImpl;
 import com.amdocs.telecom.model.UsageRecord;
 import com.amdocs.telecom.util.DBConnection;

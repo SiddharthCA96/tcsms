@@ -1,6 +1,6 @@
-package com.amdocs.telecom.main;
+package com.amdocs.telecom.dao;
 
-import com.amdocs.telecom.dao.TelecomPlanDAO;
+// import com.amdocs.telecom.dao.TelecomPlanDAO;
 import com.amdocs.telecom.dao.impl.TelecomPlanDAOImpl;
 import com.amdocs.telecom.model.TelecomPlan;
 

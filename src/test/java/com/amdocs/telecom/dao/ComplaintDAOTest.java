@@ -1,6 +1,6 @@
-package com.amdocs.telecom.main;
+package com.amdocs.telecom.dao;
 
-import com.amdocs.telecom.dao.ComplaintDAO;
+// import com.amdocs.telecom.dao.ComplaintDAO;
 import com.amdocs.telecom.dao.impl.ComplaintDAOImpl;
 import com.amdocs.telecom.model.Complaint;
 import com.amdocs.telecom.util.DBConnection;

@@ -1,6 +1,6 @@
-package com.amdocs.telecom.main;
+package com.amdocs.telecom.dao;
 
-import com.amdocs.telecom.dao.BillingDAO;
+// import com.amdocs.telecom.dao.BillingDAO;
 import com.amdocs.telecom.dao.impl.BillingDAOImpl;
 import com.amdocs.telecom.model.Bill;
 import com.amdocs.telecom.util.DBConnection;
